@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="movie_poster_width">360</integer>
+    <integer name="movie_poster_height">550</integer>
+</resources>

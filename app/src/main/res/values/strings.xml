@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Popular Movies Stage 2</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="release_date_label">Release Date</string>
+    <string name="user_rating">User Rating</string>
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_was_found">No summary was found</string>
+    <string name="original_title">Spyder</string>
+    <string name="release_date">09–27–2017</string>
+    <string name="vote_average">4.3/5</string>
+    <string name="overview">Siva, an intelligence officer is entrusted with the task to take down a psychotic terrorist who has unleashed a wave of terror in the city of Hyderabad.</string>
+    <string name="move_poster_description">poster desc</string>
+    <string name="internet_connection_error">Intenet connection is not available</string>
+    <string name="title">TITLE: &#160;</string>
+    <string name="synopsys">SYNOPSIS: &#160;</string>
+</resources>

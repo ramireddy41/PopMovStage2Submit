@@ -1,0 +1,1 @@
+Please place your api key in AppConstants.java -> API_KEY constant
